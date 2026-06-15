@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "lawrence-pritchard-waterhouse",
+    "name": "Lawrence Pritchard Waterhouse",
+    "epithet": "US Navy cryptographer and mathematical prodigy — Turing's fr",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Lawrence Pritchard Waterhouse:CRY:41b792⟧"
+  },
+  {
+    "slug": "bobby-shaftoe",
+    "name": "Bobby Shaftoe",
+    "epithet": "Hard-charging US Marine raider sergeant (WWII).",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Bobby Shaftoe:CRY:8da35c⟧"
+  },
+  {
+    "slug": "enoch-root",
+    "name": "Enoch Root",
+    "epithet": "The ageless priest-physician-cryptographer who threads the w",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Enoch Root:CRY:f5dba8⟧"
+  },
+  {
+    "slug": "randy-waterhouse",
+    "name": "Randy Waterhouse",
+    "epithet": "Lawrence's grandson; sysadmin and co-founder of the data-hav",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Randy Waterhouse:CRY:bcc4ef⟧"
+  },
+  {
+    "slug": "amy-shaftoe",
+    "name": "Amy Shaftoe",
+    "epithet": "Bobby's granddaughter; boat captain, diver, and Randy's love",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Amy Shaftoe:CRY:a87c9b⟧"
+  },
+  {
+    "slug": "goto-dengo",
+    "name": "Goto Dengo",
+    "epithet": "The Japanese mining engineer who buries the gold at 'Golgoth",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Goto Dengo:CRY:671746⟧"
+  },
+  {
+    "slug": "the-enigma-bletchley-park",
+    "name": "The Enigma / Bletchley Park",
+    "epithet": "The German cipher device and the British codebreaking center",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Enigma / Bletchley Park:CRY:e80ac9⟧"
+  },
+  {
+    "slug": "the-data-haven",
+    "name": "The Data Haven",
+    "epithet": "Kinakuta — the fictional sultanate hosting an uncensorable o",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Data Haven:CRY:8efde6⟧"
+  },
+  {
+    "slug": "the-solitaire-pontifex-cipher",
+    "name": "The Solitaire / Pontifex Cipher",
+    "epithet": "Bruce Schneier's real card-based cipher, printed in the book",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Solitaire / Pontifex Cipher:CRY:7b77b7⟧"
+  }
+]
