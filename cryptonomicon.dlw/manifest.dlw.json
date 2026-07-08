@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "Cryptography as the secret history of the 20th century. Pull the thread of who controls information, and the whole century unspools.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 893,
+    "prev": "dc6a5a4663d218505c864f888aa8f3d9bda22193fb33ed713ff18100014bc6aa",
+    "link": "1b9dd348b47f0a8daab7db2e9df7f986dc300f73653e83200f9ee533d06bbd6c",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
